@@ -1,0 +1,1 @@
+Implementation of a function that is given two integers and returns the larger of them
